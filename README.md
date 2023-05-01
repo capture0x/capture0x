@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img0.joyreactor.com/pics/post/gif-pixel-art-1485517.gif" width="800" height="400">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif" width="800" height="400">
   <h1> Hi, I'm capture0x👋</h1>
   <br>
   <p>
