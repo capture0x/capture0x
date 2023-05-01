@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a2/3f/0f/a23f0fa4d39941be847294e3abb89fd2.gif" width="800" height="400">
+  <img src="https://i.pinimg.com/originals/c9/4c/e7/c94ce78d80c07480d25f7acafddc15d8.gif" width="800" height="400">
   <h1> Hi, I'm capture0x👋</h1>
   <br>
   <p>
