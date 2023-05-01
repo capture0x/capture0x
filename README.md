@@ -36,7 +36,9 @@
 - [Xss Payload Generator](https://youtu.be/ys_a5yx1hmY)
 - [CYPHER TOOLS ](https://youtu.be/M4eq6JUMffI)
 - [Exploit Finder  ](https://youtu.be/J6HXwa6NVe8)
-
+- [WATCH COINS   ](https://youtu.be/EV_fCFO79cY)
+- [xShock ShellShock  ](https://youtu.be/VXP6ZYyBPS4)
+- [XCTR Hacking Tool   ](https://youtu.be/nRpO9w_V1ZA)
 <!-- YOUTUBE:END -->
 
 
