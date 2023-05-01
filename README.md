@@ -35,6 +35,8 @@
 <!-- YOUTUBE:START -->
 - [Xss Payload Generator](https://youtu.be/ys_a5yx1hmY)
 - [CYPHER TOOLS ](https://youtu.be/M4eq6JUMffI)
+- [Exploit Finder  ](https://youtu.be/J6HXwa6NVe8)
+
 <!-- YOUTUBE:END -->
 
 
