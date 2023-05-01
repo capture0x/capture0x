@@ -27,7 +27,7 @@
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 ## 📊 My GitHub Stats
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=capture0x&show_icons=true&theme=dark" alt="capture0x GitHub Stats" />
 </div>
