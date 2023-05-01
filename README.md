@@ -29,8 +29,8 @@
 ## 📊 My GitHub Stats
 <br>
 <div align="center">
-![Capture0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=capture0x&count_private=true)</div>
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=capture0x&show_icons=true&theme=tokyonight" alt="Capture0x GitHub Stats" />
+</div>
 
 ## 🎥 Latest YouTube Videos
 
