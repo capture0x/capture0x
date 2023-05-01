@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/orMk2tY.gif" width="800" height="400">
+  <img src="https://community.gamedev.tv/uploads/db2322/original/3X/c/8/c8364b750716e2ca5b1fa5029de9a0abea41ad14.jpeg" width="800" height="400">
   <h1> Hi, I'm capture0x👋</h1>
   <br>
   <p>
