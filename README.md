@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/capture0x/capture0x/blob/main/header.jpg" width="800" height="400">
+  <img src="https://github.com/capture0x/capture0x/blob/main/header.png" width="800" height="400">
   <h1> Hi, I'm capture0x👋</h1>
   <br>
   <p>
