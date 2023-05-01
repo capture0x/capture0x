@@ -14,6 +14,12 @@
 
 - [PROJECT 1](https://github.com/capture0x/XSS-LOADER)
 - [PROJECT 2](https://github.com/capture0x/cypher)
+- [PROJECT 3](https://github.com/capture0x/EvilEyes-Extract)
+- [PROJECT 4](https://github.com/capture0x/XSHOCK)
+- [PROJECT 5](https://github.com/capture0x/XCTR-Hacking-Tools)
+- [PROJECT 6](https://github.com/capture0x/XSS-FINDER)
+- [PROJECT 7](https://github.com/capture0x/mailExtractor)
+- [PROJECT 8](https://github.com/capture0x/CVE-FIND)
 
 
 ## 📊 My GitHub Stats
