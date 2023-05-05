@@ -13,6 +13,7 @@
 ## 🔭 Current Projects
 
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
+- [Lfi-Space](https://github.com/capture0x/Lfi-Space)
 - [Cypher](https://github.com/capture0x/cypher)
 - [EvilEyes-Extract](https://github.com/capture0x/EvilEyes-Extract)
 - [XSHOCK](https://github.com/capture0x/XSHOCK)
