@@ -32,6 +32,7 @@
 
 <!-- YOUTUBE:START -->
 - [Xss Payload Generator](https://youtu.be/ys_a5yx1hmY)
+- [LFI Space Tool](https://youtu.be/rpcGqwZU2As)
 - [CYPHER TOOLS ](https://youtu.be/M4eq6JUMffI)
 - [Exploit Finder  ](https://youtu.be/J6HXwa6NVe8)
 - [WATCH COINS   ](https://youtu.be/EV_fCFO79cY)
