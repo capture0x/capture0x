@@ -45,5 +45,4 @@
 
 ## 📫 How to Reach Me
 
-- Email: fayxx1444@gmail.com
 - Instagram: [@capturetheroot](https://www.instagram.com/capturetheroot/)
