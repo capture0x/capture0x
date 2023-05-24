@@ -14,6 +14,7 @@
 
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
 - [Lfi-Space](https://github.com/capture0x/Lfi-Space)
+- [Lfi-Finder](https://github.com/capture0x/LFI-FINDER)
 - [Cypher](https://github.com/capture0x/cypher)
 - [EvilEyes-Extract](https://github.com/capture0x/EvilEyes-Extract)
 - [XSHOCK](https://github.com/capture0x/XSHOCK)
@@ -33,6 +34,7 @@
 <!-- YOUTUBE:START -->
 - [Xss Payload Generator](https://youtu.be/ys_a5yx1hmY)
 - [LFI Space Tool](https://youtu.be/rpcGqwZU2As)
+- [LFI Finder Tool](https://youtu.be/g01MZMGm3Cc)
 - [CYPHER TOOLS ](https://youtu.be/M4eq6JUMffI)
 - [Exploit Finder  ](https://youtu.be/J6HXwa6NVe8)
 - [WATCH COINS   ](https://youtu.be/EV_fCFO79cY)
