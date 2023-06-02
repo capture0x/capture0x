@@ -34,6 +34,7 @@
 
 <!-- YOUTUBE:START -->
 - [Xss Payload Generator](https://youtu.be/ys_a5yx1hmY)
+- [SSTI Finder Tool](https://youtu.be/RftxyB9tlI4)
 - [LFI Space Tool](https://youtu.be/rpcGqwZU2As)
 - [LFI Finder Tool](https://youtu.be/g01MZMGm3Cc)
 - [CYPHER TOOLS ](https://youtu.be/M4eq6JUMffI)
