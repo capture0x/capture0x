@@ -14,6 +14,7 @@
 
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
 - [Lfi-Space](https://github.com/capture0x/Lfi-Space)
+- [SSTI-Finder](https://github.com/capture0x/SSTI-FINDER)
 - [Lfi-Finder](https://github.com/capture0x/LFI-FINDER)
 - [Cypher](https://github.com/capture0x/cypher)
 - [EvilEyes-Extract](https://github.com/capture0x/EvilEyes-Extract)
