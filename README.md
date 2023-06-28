@@ -3,7 +3,7 @@
   <h1> Hi, I'm capture0x👋</h1>
   <br>
   <p>
-    <a href="https://www.instagram.com/capturetheroot"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-capturetheroot-blue?style=flat-square&logo=instagram"></a>
+    <a href="https://www.instagram.com/tmrswrr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-capturetheroot-blue?style=flat-square&logo=instagram"></a>
   </p>
 </div>
 
