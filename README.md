@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/capture0x/capture0x/main/retro-animation-final.gif" >
-  <h1> Hi, I'm capture0x👋</h1>
+  <h1> Hi, I'm tmrswrr👋</h1>
   <br>
   <p>
     <a href="https://www.instagram.com/tmrswrr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-capturetheroot-blue?style=flat-square&logo=instagram"></a>
