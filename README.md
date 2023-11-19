@@ -13,6 +13,7 @@
 ## 🔭 Current Projects
 - [Stole-My-Exploit](https://github.com/capture0x/Stole-My-Exploit)
 - [My-Exploits](https://github.com/capture0x/My-Exploits)
+- [Adobe Improved Import & Export XSLT Server Side Injection](https://github.com/capture0x/Magento-ver.-2.4.6/)
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
 - [Lfi-Space](https://github.com/capture0x/Lfi-Space)
 - [SSTI-Finder](https://github.com/capture0x/SSTI-FINDER)
