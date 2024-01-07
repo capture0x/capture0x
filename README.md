@@ -14,6 +14,7 @@
 - [My-Exploits](https://github.com/capture0x/My-Exploits)
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
 - [Lfi-Space](https://github.com/capture0x/Lfi-Space)
+- [Dork-Scan](https://github.com/capture0x/Dork-Scan/)
 - [SSTI-Finder](https://github.com/capture0x/SSTI-FINDER)
 - [Lfi-Finder](https://github.com/capture0x/LFI-FINDER)
 - [Cypher](https://github.com/capture0x/cypher)
