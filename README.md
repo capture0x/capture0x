@@ -24,6 +24,7 @@
 - [XSS-FINDER](https://github.com/capture0x/XSS-FINDER)
 - [Mail Extractor](https://github.com/capture0x/mailExtractor)
 - [CVE-FIND](https://github.com/capture0x/CVE-FIND)
+- [Watch-Coins](https://github.com/capture0x/watch-coins)
 
 <p align="center"><img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" /></p>
 
