@@ -12,6 +12,7 @@
 
 ## 🔭 Current Projects
 - [My-Exploits](https://github.com/capture0x/My-Exploits)
+- [My-CVE](https://github.com/capture0x/My-CVE)
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
 - [Lfi-Space](https://github.com/capture0x/Lfi-Space)
 - [Dork-Scan](https://github.com/capture0x/Dork-Scan/)
