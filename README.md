@@ -49,7 +49,3 @@
 <!-- YOUTUBE:END -->
 
 
-## 📫 How to Reach Me
-
-- Instagram: [@capturetheroot](https://www.instagram.com/capturetheroot/)
-- eMail: [tmrswrr](tmrswrr@gmail.com )
