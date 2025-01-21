@@ -9,6 +9,7 @@
 
 ## 🔭 Current Projects
 - [My-Exploits](https://github.com/capture0x/My-Exploits)
+- [Bug-Hunter](https://github.com/capture0x/Bug-Hunter)
 - [My-CVE](https://github.com/capture0x/My-CVE)
 - [Web-Scanner](https://github.com/capture0x/web-scanner/)
 - [XSS-LOADER](https://github.com/capture0x/XSS-LOADER)
