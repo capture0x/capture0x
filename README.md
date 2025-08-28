@@ -9,7 +9,7 @@
 
 ## 🔭 Current Projects
 - [My-Exploits](https://github.com/capture0x/My-Exploits)
-- [Resonant Osint Agent](https://github.com/capture0x/Resonant)
+- [AI Cyber Agent](https://github.com/capture0x/ai-cyber-agent)
 - [Bug-Hunter](https://github.com/capture0x/Bug-Hunter)
 - [My-CVE](https://github.com/capture0x/My-CVE)
 - [Web-Scanner](https://github.com/capture0x/web-scanner/)
