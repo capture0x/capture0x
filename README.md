@@ -9,6 +9,7 @@
 
 ## 🔭 Current Projects
 - [My-Exploits](https://github.com/capture0x/My-Exploits)
+- [AWS Pentest Tool](https://github.com/capture0x/aws-pentest)
 - [AI Cyber Agent](https://github.com/capture0x/ai-cyber-agent)
 - [Bug-Hunter](https://github.com/capture0x/Bug-Hunter)
 - [My-CVE](https://github.com/capture0x/My-CVE)
