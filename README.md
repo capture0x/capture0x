@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/capture0x/capture0x/main/retro-animation-final.gif" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/capture0x/capture0x/main/retro-animation-final.gif" width="800" height="500">
   <h1>tmrswrr</h1>
   <p><strong>Security Researcher</strong> • Tool Developer • Offensive Security</p>
 </div>
@@ -37,7 +37,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" width="300">
+  <img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" width="800">
 </p>
 
 ![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
