@@ -40,8 +40,28 @@
   <img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" width="900">
 </p>
 
-![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg#gh-dark-mode-only)
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake.svg#gh-light-mode-only" width="800" height="200">
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: capture0x
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ## 🎥 Latest YouTube Videos
