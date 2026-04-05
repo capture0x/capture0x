@@ -41,9 +41,15 @@
 </p>
 
 <div align="center">
-![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg#gh-dark-mode-only)
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake.svg#gh-light-mode-only" width="900" height="220">
+![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 </div>
+
+<style>
+  img[alt*="Contribution Graph"] {
+    width: 800px !important;
+    height: 200px !important;
+  }
+</style>
 ---
 
 ## 🎥 Latest YouTube Videos
