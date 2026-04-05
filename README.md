@@ -37,7 +37,7 @@
 
 ## 📊 Stats
 
-<p align="center">
+<p align="">
   <img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" width="800">
 </p>
 
