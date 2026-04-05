@@ -36,20 +36,8 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" width="900">
-</p>
-
-<div align="center">
-![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-</div>
-
-<style>
-  img[alt*="Contribution Graph"] {
-    width: 800px !important;
-    height: 200px !important;
-  }
-</style>
+![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake.svg#gh-light-mode-only" width="800" height="300">
 ---
 
 ## 🎥 Latest YouTube Videos
