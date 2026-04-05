@@ -33,8 +33,12 @@
 - [EvilEyes-Extract](https://github.com/capture0x/EvilEyes-Extract)
 - [XSHOCK](https://github.com/capture0x/XSHOCK)
 - [XCTR-Hacking-Tools](https://github.com/capture0x/XCTR-Hacking-Tools)
-- 
-<p align="center"><img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr" /></p>
+
+<div align="center">
+  <img src="h<p align="center"><img src="https://i.imgur.com/cpz9SUO.gif" alt=":tmrswrr"  width="900" height="500"> /></p>" >
+  <br>
+</div>
+
 ## 📊 Stats
 
 ![Contribution Graph](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg#gh-dark-mode-only)
