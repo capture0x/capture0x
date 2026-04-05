@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/capture0x/capture0x/main/retro-animation-final.gif" width="1200" height="500">
+  <img src="https://raw.githubusercontent.com/capture0x/capture0x/main/retro-animation-final.gif" width="1000" height="500">
   <h1>tmrswrr</h1>
   <p><strong>Security Researcher</strong> • Tool Developer • Offensive Security</p>
 </div>
