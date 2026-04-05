@@ -37,10 +37,8 @@
 
 ## 📊 Stats
 
-## 📊 Stats
-
 <div align="center">
-<img src="https://i.imgur.com/cpz9SUO.gif" width="400" height="200">
+<img src="https://i.imgur.com/cpz9SUO.gif" width="800" height="200">
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake.svg#gh-light-mode-only" width="800" height="200">
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg#gh-dark-mode-only" width="800" height="200">
 </div>
