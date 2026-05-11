@@ -10,6 +10,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [AD Attack Tool-Agent](https://github.com/capture0x/AdStrike/) | AD Attack & Agent toolkit |
 | [AWS Pentest Tool](https://github.com/capture0x/aws-pentest) | AWS audit & offensive assessment toolkit |
 | [AI Cyber Agent](https://github.com/capture0x/ai-cyber-agent) | AI-assisted security workflow automation |
 | [My-Exploits](https://github.com/capture0x/My-Exploits) | Exploit collection & practical research |
